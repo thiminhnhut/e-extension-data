@@ -1,39 +1,41 @@
-# SỔ TAY HƯỚNG DẪN  
-# QUY TRÌNH SẢN XUẤT LÚA CHẤT LƯỢNG CAO VÀ PHÁT THẢI THẤP  
-# VÙNG ĐỒNG BẰNG SÔNG CỬU LONG
+# SỔ TAY HƯỚNG DẪN QUY TRÌNH SẢN XUẤT LÚA CHẤT LƯỢNG CAO VÀ PHÁT THẢI THẤP VÙNG ĐỒNG BẰNG SÔNG CỬU LONG
 
 ## METADATA TÀI LIỆU
 
-**Loại tài liệu:** Sổ tay hướng dẫn  
+**Loại tài liệu:** Sổ tay hướng dẫn
 
-**Tên đầy đủ:** Sổ tay hướng dẫn Quy trình kỹ thuật sản xuất lúa chất lượng cao và phát thải thấp vùng Đồng bằng sông Cửu Long  
+**Tên đầy đủ:** Sổ tay hướng dẫn Quy trình kỹ thuật sản xuất lúa chất lượng cao và phát thải thấp vùng Đồng bằng sông Cửu Long
 
-**Mã số/Ký hiệu:**  
-- Quyết định số 4043/QĐ-TTTV-TTBVTV ngày 10/11/2025  
-- Thuộc Đề án theo Quyết định số 1490/QĐ-TTg ngày 27/11/2023  
+**Mã số/Ký hiệu:**
 
-**Tác giả/Cơ quan:**  
-- Trung tâm Khuyến nông Quốc gia  
-- Viện Nghiên cứu Lúa gạo Quốc tế (IRRI)  
-- Cục Trồng trọt và Bảo vệ thực vật  
+- Quyết định số 4043/QĐ-TTTV-TTBVTV ngày 10/11/2025
+- Thuộc Đề án theo Quyết định số 1490/QĐ-TTg ngày 27/11/2023
 
-**Năm ban hành:** 2025  
+**Tác giả/Cơ quan:**
 
-**Lĩnh vực chuyên môn:**  
-- Trồng lúa  
-- Canh tác lúa chất lượng cao  
-- Giảm phát thải khí nhà kính  
+- Trung tâm Khuyến nông Quốc gia
+- Viện Nghiên cứu Lúa gạo Quốc tế (IRRI)
+- Cục Trồng trọt và Bảo vệ thực vật
 
-**Đối tượng áp dụng:**  
-- Nông dân  
-- Hợp tác xã  
-- Doanh nghiệp  
-- Cán bộ kỹ thuật  
+**Năm ban hành:** 2025
 
-**Khu vực:** Đồng bằng sông Cửu Long  
+**Lĩnh vực chuyên môn:**
+
+- Trồng lúa
+- Canh tác lúa chất lượng cao
+- Giảm phát thải khí nhà kính
+
+**Đối tượng áp dụng:**
+
+- Nông dân
+- Hợp tác xã
+- Doanh nghiệp
+- Cán bộ kỹ thuật
+
+**Khu vực:** Đồng bằng sông Cửu Long
 
 **Từ khóa chính:**  
-lúa chất lượng cao, phát thải thấp, Đề án Một Triệu Ha, AWD, IPM, quản lý rơm rạ  
+lúa chất lượng cao, phát thải thấp, Đề án Một Triệu Ha, AWD, IPM, quản lý rơm rạ
 
 ---
 
@@ -73,65 +75,27 @@ Sổ tay hướng dẫn Quy trình Một Triệu Ha gồm ba hợp phần liên 
 
 Các công nghệ và thực hành kỹ thuật được giới thiệu bao gồm:
 
-- Làm đất bằng cơ giới hóa và san phẳng mặt ruộng phù hợp từng vụ sản xuất  
-- Quản lý nước giảm phát thải khí nhà kính theo nguyên lý ướt – khô xen kẽ (AWD)  
-- Sử dụng giống xác nhận và giảm lượng giống gieo sạ  
-- Bón phân hợp lý, cân đối theo nhu cầu cây lúa  
-- Phòng, chống sinh vật gây hại theo nguyên tắc IPM  
-- Thu hoạch đúng thời điểm, giảm tổn thất sau thu hoạch  
-- Quản lý rơm rạ theo hướng tuần hoàn, không đốt rơm  
-
+- Làm đất bằng cơ giới hóa và san phẳng mặt ruộng phù hợp từng vụ sản xuất
+- Quản lý nước giảm phát thải khí nhà kính theo nguyên lý ướt – khô xen kẽ (AWD)
+- Sử dụng giống xác nhận và giảm lượng giống gieo sạ
+- Bón phân hợp lý, cân đối theo nhu cầu cây lúa
+- Phòng, chống sinh vật gây hại theo nguyên tắc IPM
+- Thu hoạch đúng thời điểm, giảm tổn thất sau thu hoạch
+- Quản lý rơm rạ theo hướng tuần hoàn, không đốt rơm
 
 ## PHẠM VI SỬ DỤNG VÀ ĐỐI TƯỢNG ÁP DỤNG
 
 ### Nội dung chính
 
-**Đối tượng áp dụng:**  
-- Các tổ chức: Câu lạc bộ, Tổ hợp tác, Hợp tác xã, Doanh nghiệp  
-- Cá nhân: Nông hộ, trang trại sản xuất lúa  
+**Đối tượng áp dụng:**
 
-**Phạm vi áp dụng:**  
-- Vùng chuyên canh lúa chất lượng cao thuộc Đề án Một Triệu Ha  
-- Có thể mở rộng áp dụng cho các vùng sản xuất lúa khác có điều kiện tương đồng  
+- Các tổ chức: Câu lạc bộ, Tổ hợp tác, Hợp tác xã, Doanh nghiệp
+- Cá nhân: Nông hộ, trang trại sản xuất lúa
 
+**Phạm vi áp dụng:**
 
-
-# SỔ TAY HƯỚNG DẪN
-
-# QUY TRÌNH SẢN XUẤT LÚA CHẤT LƯỢNG CAO VÀ PHÁT THẢI THẤP
-
-# VÙNG ĐỒNG BẰNG SÔNG CỬU LONG
-
-## METADATA TÀI LIỆU
-
-**Loại tài liệu:** Sổ tay hướng dẫn
-
-**Tên đầy đủ:** Sổ tay hướng dẫn Quy trình kỹ thuật sản xuất lúa chất lượng cao và phát thải thấp vùng Đồng bằng sông Cửu Long
-
-**Mã số/Ký hiệu:**
-
-- Quyết định số 4043/QĐ-TTTV-TTBVTV (10/11/2025)
-- Thuộc Đề án theo Quyết định số 1490/QĐ-TTg (27/11/2023)
-
-**Tác giả/Cơ quan:**
-
-- Trung tâm Khuyến nông Quốc gia
-- Viện Nghiên cứu Lúa gạo Quốc tế (IRRI)
-- Cục Trồng trọt và Bảo vệ thực vật
-
-**Năm ban hành:** 2025
-
-**Lĩnh vực chuyên môn:**  
-Trồng lúa, Canh tác lúa chất lượng cao, Giảm phát thải khí nhà kính
-
-**Đối tượng áp dụng:**  
-Nông dân, Hợp tác xã, Doanh nghiệp, Cán bộ kỹ thuật
-
-**Khu vực:**  
-Đồng bằng sông Cửu Long
-
-**Từ khóa chính:**  
-lúa chất lượng cao, phát thải thấp, kỹ thuật canh tác, gieo sạ, AWD, cơ giới hóa
+- Vùng chuyên canh lúa chất lượng cao thuộc Đề án Một Triệu Ha
+- Có thể mở rộng áp dụng cho các vùng sản xuất lúa khác có điều kiện tương đồng
 
 ## II. KỸ THUẬT CANH TÁC – TỔNG QUAN
 
@@ -247,44 +211,6 @@ Quản lý nước hợp lý giúp giảm phát thải khí nhà kính và đả
 ### Ứng dụng thực tế
 
 Điều chỉnh nước phù hợp mùa vụ và điều kiện đất giúp tăng hiệu quả canh tác và giảm rủi ro môi trường.
-
-
-# SỔ TAY HƯỚNG DẪN
-
-# QUY TRÌNH SẢN XUẤT LÚA CHẤT LƯỢNG CAO VÀ PHÁT THẢI THẤP
-
-# VÙNG ĐỒNG BẰNG SÔNG CỬU LONG
-
-## METADATA TÀI LIỆU
-
-**Loại tài liệu:** Sổ tay hướng dẫn
-
-**Tên đầy đủ:** Sổ tay hướng dẫn Quy trình kỹ thuật sản xuất lúa chất lượng cao và phát thải thấp vùng Đồng bằng sông Cửu Long
-
-**Mã số/Ký hiệu:**
-
-- Quyết định số 4043/QĐ-TTTV-TTBVTV (10/11/2025)
-- Thuộc Đề án theo Quyết định số 1490/QĐ-TTg (27/11/2023)
-
-**Tác giả/Cơ quan:**
-
-- Trung tâm Khuyến nông Quốc gia
-- Viện Nghiên cứu Lúa gạo Quốc tế (IRRI)
-- Cục Trồng trọt và Bảo vệ thực vật
-
-**Năm ban hành:** 2025
-
-**Lĩnh vực chuyên môn:**  
-Trồng lúa, Quản lý nước, Phân bón, Quản lý dịch hại tổng hợp
-
-**Đối tượng áp dụng:**  
-Nông dân, Hợp tác xã, Doanh nghiệp, Cán bộ kỹ thuật
-
-**Khu vực:**  
-Đồng bằng sông Cửu Long
-
-**Từ khóa chính:**  
-AWD, quản lý nước lúa, bón phân lúa, IPM, IPHM, phát thải thấp
 
 ## QUẢN LÝ NƯỚC GIẢM PHÁT THẢI KHÍ NHÀ KÍNH (AWD)
 
@@ -433,44 +359,6 @@ Bón phân đúng kỹ thuật giúp cây lúa sinh trưởng cân đối, hạn
   - **Pretilachlor, Butachlor, Bispyribac sodium, Pyrazosulfuron Ethyl**
 - Luân phiên thuốc có cơ chế tác động khác nhau.
 
-
-# SỔ TAY HƯỚNG DẪN
-
-# QUY TRÌNH SẢN XUẤT LÚA CHẤT LƯỢNG CAO VÀ PHÁT THẢI THẤP
-
-# VÙNG ĐỒNG BẰNG SÔNG CỬU LONG
-
-## METADATA TÀI LIỆU
-
-**Loại tài liệu:** Sổ tay hướng dẫn
-
-**Tên đầy đủ:** Sổ tay hướng dẫn Quy trình kỹ thuật sản xuất lúa chất lượng cao và phát thải thấp vùng Đồng bằng sông Cửu Long
-
-**Mã số/Ký hiệu:**
-
-- Quyết định số 4043/QĐ-TTTV-TTBVTV (10/11/2025)
-- Thuộc Đề án theo Quyết định số 1490/QĐ-TTg (27/11/2023)
-
-**Tác giả/Cơ quan:**
-
-- Trung tâm Khuyến nông Quốc gia
-- Viện Nghiên cứu Lúa gạo Quốc tế (IRRI)
-- Cục Trồng trọt và Bảo vệ thực vật
-
-**Năm ban hành:** 2025
-
-**Lĩnh vực chuyên môn:**  
-Thu hoạch lúa, Sau thu hoạch, Sấy lúa, Bảo quản lúa
-
-**Đối tượng áp dụng:**  
-Nông dân, Hợp tác xã, Doanh nghiệp, Cán bộ kỹ thuật
-
-**Khu vực:**  
-Đồng bằng sông Cửu Long
-
-**Từ khóa chính:**  
-thu hoạch lúa, sấy lúa, bảo quản lúa, tổn thất sau thu hoạch, chất lượng gạo
-
 ## III. QUẢN LÝ THU HOẠCH VÀ XỬ LÝ SAU THU HOẠCH – TỔNG QUAN
 
 ### Nội dung chính
@@ -574,39 +462,6 @@ Bảo quản lúa đúng kỹ thuật giúp hạn chế hao hụt khối lượn
 
 Các biện pháp bảo quản phù hợp giúp giảm tổn thất sau thu hoạch, nâng cao chất lượng gạo và góp phần giảm phát thải khí nhà kính trong chuỗi sản xuất – tiêu thụ.
 
-
-# SỔ TAY HƯỚNG DẪN
-
-# QUY TRÌNH SẢN XUẤT LÚA CHẤT LƯỢNG CAO VÀ PHÁT THẢI THẤP
-
-# VÙNG ĐỒNG BẰNG SÔNG CỬU LONG
-
-## METADATA TÀI LIỆU
-
-**Loại tài liệu:** Sổ tay hướng dẫn
-
-**Tên đầy đủ:** Sổ tay hướng dẫn Quy trình kỹ thuật sản xuất lúa chất lượng cao và phát thải thấp vùng Đồng bằng sông Cửu Long
-
-**Mã số/Ký hiệu:**  
-Quyết định số 248/QĐ-TT-VPPN ngày 10/7/2023
-
-**Tác giả/Cơ quan:**  
-Cục Trồng trọt – Bộ Nông nghiệp và Phát triển nông thôn
-
-**Năm ban hành:** 2023
-
-**Lĩnh vực chuyên môn:**  
-Quản lý rơm rạ, Nông nghiệp tuần hoàn, Giảm phát thải khí nhà kính
-
-**Đối tượng áp dụng:**  
-Nông dân, Hợp tác xã, Doanh nghiệp, Cán bộ kỹ thuật
-
-**Khu vực:**  
-Đồng bằng sông Cửu Long
-
-**Từ khóa chính:**  
-quản lý rơm rạ, nông nghiệp tuần hoàn, không đốt rơm, phát thải thấp, SRP
-
 ## IV. QUẢN LÝ RƠM RẠ – TỔNG QUAN
 
 ### Nội dung chính
@@ -707,39 +562,6 @@ Khuyến khích áp dụng các biện pháp thúc đẩy phân hủy gốc rạ
 ### Lưu ý quan trọng
 
 Nếu vùi rơm rạ trong điều kiện ruộng ngập nước và không đủ thời gian phân hủy trong điều kiện yếm khí, sẽ làm gia tăng phát thải khí nhà kính.
-
-
-# SỔ TAY HƯỚNG DẪN
-
-# QUY TRÌNH SẢN XUẤT LÚA CHẤT LƯỢNG CAO VÀ PHÁT THẢI THẤP
-
-# VÙNG ĐỒNG BẰNG SÔNG CỬU LONG
-
-## METADATA TÀI LIỆU
-
-**Loại tài liệu:** Sổ tay hướng dẫn
-
-**Tên đầy đủ:** Sổ tay hướng dẫn Quy trình kỹ thuật sản xuất lúa chất lượng cao và phát thải thấp vùng Đồng bằng sông Cửu Long
-
-**Mã số/Ký hiệu:**  
-Quyết định số 248/QĐ-TT-VPPN ngày 10/7/2023
-
-**Tác giả/Cơ quan:**  
-Cục Trồng trọt – Bộ Nông nghiệp và Phát triển nông thôn
-
-**Năm ban hành:** 2023
-
-**Lĩnh vực chuyên môn:**  
-Quản lý rơm rạ, Nông nghiệp tuần hoàn, Phụ phẩm nông nghiệp
-
-**Đối tượng áp dụng:**  
-Nông dân, Hợp tác xã, Doanh nghiệp, Cán bộ kỹ thuật
-
-**Khu vực:**  
-Đồng bằng sông Cửu Long
-
-**Từ khóa chính:**  
-sử dụng rơm, rơm phủ, trồng nấm rơm, thức ăn gia súc, phân hữu cơ
 
 ## 3. SỬ DỤNG RƠM ĐÃ ĐƯỢC THU GOM
 
@@ -923,39 +745,6 @@ Phân hữu cơ từ rơm được sản xuất bằng phương pháp **ủ hi�
 - Sau **30–45 ngày**, phân hữu cơ đạt yêu cầu.
 - Độ ẩm sản phẩm: **30–40%**.
 
-
-# SỔ TAY HƯỚNG DẪN
-
-# QUY TRÌNH SẢN XUẤT LÚA CHẤT LƯỢNG CAO VÀ PHÁT THẢI THẤP
-
-# VÙNG ĐỒNG BẰNG SÔNG CỬU LONG
-
-## METADATA TÀI LIỆU
-
-**Loại tài liệu:** Sổ tay hướng dẫn
-
-**Tên đầy đủ:** Sổ tay hướng dẫn Quy trình kỹ thuật sản xuất lúa chất lượng cao và phát thải thấp vùng Đồng bằng sông Cửu Long
-
-**Tác giả/Cơ quan:**
-
-- Trung tâm Khuyến nông Quốc gia
-- Viện Nghiên cứu Lúa gạo Quốc tế (IRRI)
-- Cục Trồng trọt và Bảo vệ thực vật
-
-**Năm ban hành:** 2025
-
-**Lĩnh vực chuyên môn:**  
-Công nghệ số trong nông nghiệp, Quản lý sản xuất lúa, Giảm phát thải khí nhà kính
-
-**Đối tượng áp dụng:**  
-Nông dân, Hợp tác xã, Doanh nghiệp, Cán bộ kỹ thuật
-
-**Khu vực:**  
-Đồng bằng sông Cửu Long
-
-**Từ khóa chính:**  
-công nghệ số nông nghiệp, CS-MAP, SSNM, EasyFarm, MRV, CF-Rice
-
 ## V. XU HƯỚNG PHÁT TRIỂN VÀ ÁP DỤNG CÔNG NGHỆ SỐ TRONG NÔNG NGHIỆP
 
 ### Nội dung chính
@@ -1082,5 +871,3 @@ ViRiCert là công cụ thử nghiệm do IRRI phát triển nhằm đánh giá 
 6. Quy trình kỹ thuật sản xuất phân bón từ rơm
 7. Quy trình sản xuất và sử dụng chậu rơm
 8. Trình diễn đồng ruộng cơ giới hóa gieo sạ chính xác
-
-
