@@ -2,8 +2,7 @@
 
 ## METADATA TÀI LIỆU
 
-**Loại tài liệu:**  
-Sổ tay hướng dẫn
+**Loại tài liệu:** Sổ tay hướng dẫn
 
 **Tên đầy đủ:**  
 Sổ tay hướng dẫn Quy trình kỹ thuật sản xuất lúa chất lượng cao và phát thải thấp vùng Đồng bằng sông Cửu Long
