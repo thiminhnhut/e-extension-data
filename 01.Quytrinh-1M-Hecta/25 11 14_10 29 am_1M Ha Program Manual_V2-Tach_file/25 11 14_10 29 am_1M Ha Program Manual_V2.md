@@ -21,7 +21,7 @@ Sổ tay hướng dẫn Quy trình kỹ thuật sản xuất lúa chất lượn
 - Cục Trồng trọt và Bảo vệ thực vật
 - Cục Trồng trọt – Bộ Nông nghiệp và Phát triển nông thôn
 
-**Năm ban hành:**  Tháng 11 năm 2025
+**Năm ban hành:** Tháng 11 năm 2025
 
 **Lĩnh vực chuyên môn (tổng hợp):**
 
@@ -876,7 +876,10 @@ ViRiCert là công cụ thử nghiệm do IRRI phát triển nhằm đánh giá 
 
 ### Video hướng dẫn
 
-5. Quy trình kỹ thuật cơ giới hóa cuốn rơm khô và rơm ướt
-6. Quy trình kỹ thuật sản xuất phân bón từ rơm
-7. Quy trình sản xuất và sử dụng chậu rơm
-8. Trình diễn đồng ruộng cơ giới hóa gieo sạ chính xác
+5. Quy trình kỹ thuật cơ giới hóa cuốn rơm khô và rơm ướt https://www.youtube.com/watch?v=bzom_ho9thQ&list=PLNowyW-
+   0S1hI9SrTqGQEj5xFB7fGO8Sx25&index=4
+6. Quy trình kỹ thuật sản xuất phân bón từ rơm https://www.youtube.com/watch?v=z32R5ztqZqE&list=PLNowyW-
+   0S1hI9SrTqGQEj5xFB7fGO8Sx25&index=5
+7. Quy trình sản xuất và sử dụng chậu rơm https://www.youtube.com/watch?v=TLnhK2g5K7I&list=PLNowyW-
+   0S1hI9SrTqGQEj5xFB7fGO8Sx25&index=3
+8. Trình diễn đồng ruộng cơ giới hóa gieo sạ chính xác https://www.youtube.com/watch?v=mqfGezrBpg8
