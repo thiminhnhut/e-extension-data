@@ -1,11 +1,5 @@
 # SỔ TAY HƯỚNG DẪN QUY TRÌNH SẢN XUẤT LÚA CHẤT LƯỢNG CAO VÀ PHÁT THẢI THẤP VÙNG ĐỒNG BẰNG SÔNG CỬU LONG
 
-# SỔ TAY HƯỚNG DẪN
-
-# QUY TRÌNH SẢN XUẤT LÚA CHẤT LƯỢNG CAO VÀ PHÁT THẢI THẤP
-
-# VÙNG ĐỒNG BẰNG SÔNG CỬU LONG
-
 ## METADATA TÀI LIỆU (GỘP – CHUẨN HÓA)
 
 **Loại tài liệu:**  
