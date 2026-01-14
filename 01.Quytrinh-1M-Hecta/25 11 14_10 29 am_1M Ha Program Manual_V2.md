@@ -1,6 +1,6 @@
 # SỔ TAY HƯỚNG DẪN QUY TRÌNH SẢN XUẤT LÚA CHẤT LƯỢNG CAO VÀ PHÁT THẢI THẤP VÙNG ĐỒNG BẰNG SÔNG CỬU LONG
 
-## METADATA TÀI LIỆU (GỘP – CHUẨN HÓA)
+## METADATA TÀI LIỆU
 
 **Loại tài liệu:**  
 Sổ tay hướng dẫn
