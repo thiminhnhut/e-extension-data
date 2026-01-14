@@ -21,8 +21,7 @@ Sổ tay hướng dẫn Quy trình kỹ thuật sản xuất lúa chất lượn
 - Cục Trồng trọt và Bảo vệ thực vật
 - Cục Trồng trọt – Bộ Nông nghiệp và Phát triển nông thôn
 
-**Năm ban hành:**  
-2023–2025
+**Năm ban hành:**  Tháng 11 năm 2025
 
 **Lĩnh vực chuyên môn (tổng hợp):**
 
